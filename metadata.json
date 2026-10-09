@@ -1,0 +1,6 @@
+{
+  "name": "NovaCode Linux IDE",
+  "description": "Futuristic Linux-based mobile IDE with multi-language runtime compiling, OpenCode AI assistant, real-time terminal synchronization, virtual env bootstrap, and 3D voice orb.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
